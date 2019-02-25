@@ -1,0 +1,10 @@
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\bin\Debug\CalculatorMedie.exe.config
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\bin\Debug\CalculatorMedie.exe
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\bin\Debug\CalculatorMedie.pdb
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.csprojAssemblyReference.cache
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.Form1.resources
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.Properties.Resources.resources
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.csproj.GenerateResource.cache
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.csproj.CoreCompileInputs.cache
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.exe
+C:\INFO\A_VisualStudio\CalculatorMedie\CalculatorMedie\obj\Debug\CalculatorMedie.pdb
